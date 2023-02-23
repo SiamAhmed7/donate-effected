@@ -233,3 +233,23 @@ footer {
     font-family: 'Dancing Script', cursive;
     padding-right: 6px;
 }
+
+.fa-book {
+    font-size: 3em;
+    padding-top: 20px;
+}
+
+.fa-bowl-food {
+    font-size: 3em;
+    padding-top: 20px;
+}
+
+.fa-family {
+    font-size: 3em;
+    padding-top: 20px;
+}
+
+.fa-house-chimney {
+    font-size: 3em;
+    padding-top: 20px;
+}
