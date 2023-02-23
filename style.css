@@ -11,18 +11,27 @@ body {
     font-size: larger;
     font-weight: 700;
     text-decoration: none;
+    margin-top: 88px;
 }
 
 .sec-1 {
     text-align: center;
     background-image: url(image/donation10.jpg);
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
+    padding: 50px 0px;
+    height: 900px;
+    background-position: center;
+    background-color: rgb(160, 153, 153);
+    background-blend-mode: multiply;
 
 }
 
 .donation-1 {
-    padding: 70px 50px 70px 50px;
+    padding-top: 200px;
+    padding-bottom: 50px;
+    padding-right: 15em;
+    padding-left: 15em;
 }
 
 .help {
@@ -32,4 +41,195 @@ body {
 
 .p-1 {
     font-size: 20px;
+}
+
+.amount {
+    display: flex;
+    padding: 40px;
+}
+
+.amount-1 {
+    width: 60%;
+    padding: 10px 10px 10px 10px;
+    margin: 10px;
+    border-radius: 6px;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+
+#extrastyle {
+    background-color: rgb(238, 214, 205);
+    color: rgb(235, 104, 11);
+    border: 2px solid rgb(155, 86, 30);
+}
+
+.donation-2 {
+    text-align: center;
+}
+
+.Donate {
+    font-size: x-large;
+}
+
+.sec-2 {
+    margin-top: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 15em;
+    padding-right: 15em;
+}
+
+#other {
+    border-bottom: 2px solid rgba(128, 128, 128, 0.452);
+    color: rgba(128, 128, 128, 0.452);
+}
+
+.fa-pot-food {
+    font-size: large;
+    color: black;
+}
+
+.f-s-e {
+    display: flex;
+}
+
+.plan {
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 15em;
+    padding-left: 15em;
+    margin-top: 50px;
+    height: 50%;
+    margin-bottom: 79px;
+}
+
+.food {
+    text-align: left;
+    background-color: rgba(186, 231, 231, 0.363);
+    margin-right: 20px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 9px;
+    box-shadow: 1px 1px 1px 1px gray;
+
+}
+
+.shelter {
+    text-align: left;
+    background-color: rgba(236, 199, 205, 0.548);
+    margin-right: 20px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 9px;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+
+.education {
+    text-align: left;
+    background-color: rgba(238, 229, 192, 0.548);
+    margin-right: 20px;
+    padding: 10px 30px 10px 30px;
+    border-radius: 9px;
+    box-shadow: 1px 1px 1px 1px gray;
+}
+
+.lives-depend {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 10px;
+    padding-right: 12px;
+    padding-bottom: 60px;
+}
+
+.half-width-2 {
+    width: 50%;
+}
+
+.half-width-2 img {
+    width: 100%;
+}
+
+#extra-add {
+    padding-left: 30px;
+}
+
+.our-donation {
+    font-size: xx-large;
+}
+
+.taka {
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+
+.sec-3 {
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+#Contribute {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-right: 20px;
+}
+
+#donation-color {
+    color: rgb(231, 162, 34);
+}
+
+.sec-4 {
+    padding-left: 15em;
+    padding-right: 15em;
+    margin-bottom: 100px;
+
+}
+
+.updates {
+    text-align: center;
+}
+
+.input {
+    background-color: rgb(238, 227, 183);
+    padding-bottom: 30px;
+    padding-top: 30px;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-top: 18px;
+}
+
+#sub {
+    padding-left: 12px;
+    padding-right: 12px;
+    color: aliceblue;
+    font-size: larger;
+    background-color: rgb(182, 35, 35);
+    border-radius: 5px;
+}
+
+.sec-5 {
+    padding-left: 15em;
+    padding-right: 15em;
+    margin-bottom: 100px;
+
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+}
+
+.humble {
+    color: rgb(211, 62, 8);
+    padding-top: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-size: xx-large;
+}
+
+.doit {
+    color: rgb(223, 231, 238);
+    padding-bottom: 30px;
+    font-size: small;
+    font-family: 'Dancing Script', cursive;
+    padding-right: 6px;
 }
